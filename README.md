@@ -45,6 +45,14 @@ I work on the mathematical foundations of generative models and their applicatio
 - **2014–2019** · Ph.D. in Mathematics, National University of Singapore
 - **2010–2014** · Bachelor's in Mathematics, Peking University
 
+## Teaching
+
+- **Spring 2026** · Deep Learning Methods and Applications（深度学习方法和应用）
+- **Fall 2025** · Deep Learning（深度学习）
+- **Spring 2025** · Deep Learning Methods and Applications（深度学习方法和应用）
+- **Fall 2024** · Introduction to Computer Vision（计算机视觉导论）
+- **Spring 2024** · Deep Learning Methods and Applications（深度学习方法和应用）
+
 ## Links
 
 [Academic homepage](https://pangtongyao.github.io/) · [Google Scholar](https://scholar.google.com/scholar?hl=en&q=%22Tongyao+Pang%22) · [DBLP](https://dblp.org/pid/263/6633.html) · [ORCID](https://orcid.org/0000-0002-1392-1242) · [YMSC](https://ymsc.tsinghua.edu.cn/en/info/1033/2765.htm)
