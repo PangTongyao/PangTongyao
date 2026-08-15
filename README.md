@@ -5,9 +5,9 @@
 **Assistant Professor**  
 [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn/en/info/1033/2765.htm), Tsinghua University
 
-### Generative Models: Theory, Algorithm and Applications
+### Generative Models: Theory, Algorithms and Applications
 
-I work on the mathematical foundations of generative models and their applications to inverse problems, imaging, and scientific computation.
+I work on the mathematical foundations of generative models, with particular interests in sampling theory for generative models, model distillation, posterior training, and posterior sampling.
 
 - **Theory:** approximation, estimation, convergence, and generalization
 - **Algorithms:** diffusion, score-based, flow-based, reinforcement learning, and self-supervised models
@@ -21,22 +21,22 @@ I work on the mathematical foundations of generative models and their applicatio
   H. Ji, T. Pang, and T. Zhang · *Machine Learning solutions for Inverse Problems, Part B*, Volume 27, Elsevier, October 2026 · [PDF](https://blog.nus.edu.sg/matjh/files/2026/05/handbook_2026.pdf)
 
 - **Enhancing Low-resolution Image Representation Through Normalizing Flows**  
-  Chenglong Bao, Tongyao Pang, Zuowei Shen, Dihan Zheng, Yihang Zou · arXiv, 2026 · [Paper](https://arxiv.org/abs/2601.06834)
+  Chenglong Bao, Tongyao Pang, Zuowei Shen, Dihan Zheng, Yihang Zou · arXiv, 2026 · [PDF](https://arxiv.org/pdf/2601.06834)
 
 - **Outlier-Robust Diffusion Solvers for Inverse Problems**  
   Yang Zheng, Jiahua Liu, Tongyao Pang, Wen Li, Zhaoqiang Liu · CVPR, 2026 · [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_Outlier-Robust_Diffusion_Solvers_for_Inverse_Problems_CVPR_2026_paper.pdf)
 
 - **Siamese Cooperative Learning for Unsupervised Image Reconstruction from Incomplete Measurements**  
-  Yuhui Quan, Xinran Qin, Tongyao Pang, Hui Ji · IEEE TPAMI, 2024 · [Paper](https://doi.org/10.1109/TPAMI.2024.3359087)
+  Yuhui Quan, Xinran Qin, Tongyao Pang, Hui Ji · IEEE TPAMI, 2024 · [PDF](https://blog.nus.edu.sg/matjh/files/2024/02/TPAMI_2024_Siamese-2fc06b3e4d82da04.pdf) · [Code](https://github.com/XinranQin/SIAMNet)
 
 - **Sparse Estimation: An MMSE Approach**  
-  Tongyao Pang, Zuowei Shen · Constructive Approximation, 2023 · [Paper](https://doi.org/10.1007/s00365-023-09623-7)
+  Tongyao Pang, Zuowei Shen · Constructive Approximation, 2023 · [PDF](https://blog.nus.edu.sg/matzuows/files/2022/01/MMSE_final.pdf)
 
 - **Recorrupted-to-Recorrupted: Unsupervised Deep Learning for Image Denoising**  
   Tongyao Pang, Huan Zheng, Yuhui Quan, Hui Ji · CVPR, 2021 · [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Pang_Recorrupted-to-Recorrupted_Unsupervised_Deep_Learning_for_Image_Denoising_CVPR_2021_paper.html) · [Code](https://github.com/PangTongyao/Recorrupted-to-Recorrupted-Unsupervised-Deep-Learning-for-Image-Denoising)
 
 - **Self-supervised Bayesian Deep Learning for Image Recovery with Applications to Compressive Sensing**  
-  Tongyao Pang, Yuhui Quan, Hui Ji · ECCV, 2020 · [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1372_ECCV_2020_paper.php)
+  Tongyao Pang, Yuhui Quan, Hui Ji · ECCV, 2020 · [PDF](https://blog.nus.edu.sg/matjh/files/2020/07/ECCV_2020_BNNCS.pdf) · [Code](https://github.com/PangTongyao/Self-supervised-BNN-for-image-recovery)
 
 ## Experience & education
 
