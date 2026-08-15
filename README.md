@@ -44,6 +44,6 @@ I work on the mathematical foundations of generative models and their applicatio
 
 ## Links
 
-[Academic homepage](https://tongyao-pang-academic.pangtongyao.chatgpt.site) · [Google Scholar](https://scholar.google.com/scholar?hl=en&q=%22Tongyao+Pang%22) · [DBLP](https://dblp.org/pid/263/6633.html) · [ORCID](https://orcid.org/0000-0002-1392-1242) · [YMSC](https://ymsc.tsinghua.edu.cn/en/info/1033/2765.htm)
+[Academic homepage](https://pangtongyao.github.io/) · [Google Scholar](https://scholar.google.com/scholar?hl=en&q=%22Tongyao+Pang%22) · [DBLP](https://dblp.org/pid/263/6633.html) · [ORCID](https://orcid.org/0000-0002-1392-1242) · [YMSC](https://ymsc.tsinghua.edu.cn/en/info/1033/2765.htm)
 
 📧 typang@tsinghua.edu.cn
