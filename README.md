@@ -5,23 +5,26 @@
 **Assistant Professor**  
 [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn/en/info/1033/2765.htm), Tsinghua University
 
-### Generative Models: Theory and Applications
+### Generative Models: Theory, Algorithm and Applications
 
 I work on the mathematical foundations of generative models and their applications to inverse problems, imaging, and scientific computation.
 
 - **Theory:** approximation, estimation, convergence, and generalization
-- **Methods:** diffusion, score-based, flow-based, and self-supervised models
+- **Algorithms:** diffusion, score-based, flow-based, reinforcement learning, and self-supervised models
 - **Applications:** inverse problems, image restoration, visual representation, and scientific computation
 
 <br clear="right">
 
 ## Selected publications
 
+- **Self-supervised deep learning for inverse imaging problems**<br>
+  H. Ji, T. Pang, and T. Zhang · *Machine Learning solutions for Inverse Problems, Part B*, Volume 27, Elsevier, October 2026 · [PDF](https://blog.nus.edu.sg/matjh/files/2026/05/handbook_2026.pdf)
+
 - **Enhancing Low-resolution Image Representation Through Normalizing Flows**  
   Chenglong Bao, Tongyao Pang, Zuowei Shen, Dihan Zheng, Yihang Zou · arXiv, 2026 · [Paper](https://arxiv.org/abs/2601.06834)
 
 - **Outlier-Robust Diffusion Solvers for Inverse Problems**  
-  Yang Zheng, Jiahua Liu, Tongyao Pang, Wen Li, Zhaoqiang Liu · arXiv, 2026 · [Paper](https://arxiv.org/abs/2605.09477)
+  Yang Zheng, Jiahua Liu, Tongyao Pang, Wen Li, Zhaoqiang Liu · CVPR, 2026 · [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_Outlier-Robust_Diffusion_Solvers_for_Inverse_Problems_CVPR_2026_paper.pdf)
 
 - **Siamese Cooperative Learning for Unsupervised Image Reconstruction from Incomplete Measurements**  
   Yuhui Quan, Xinran Qin, Tongyao Pang, Hui Ji · IEEE TPAMI, 2024 · [Paper](https://doi.org/10.1109/TPAMI.2024.3359087)
