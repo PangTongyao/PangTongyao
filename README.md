@@ -17,6 +17,12 @@ I work on the mathematical foundations of generative models, with particular int
 
 ## Selected publications
 
+- **Scale-Consistent Posterior Dynamics for Diffusion Inverse Problems**<br>
+  Zhaoqiang Liu, Tongyao Pang, Ruibing Wang, Yang Zheng · arXiv preprint, 2026 · [PDF](https://pangtongyao.github.io/papers/scale-consistent-posterior-dynamics.pdf)
+
+- **Forward-Evolution Error Analysis and Adaptive Design for Matrix-Valued Diffusion Models**<br>
+  Tongyao Pang, Zuowei Shen, Ruitong Zhang · arXiv preprint, 2026 · [PDF](https://pangtongyao.github.io/papers/forward-evolution-error-analysis.pdf)
+
 - **Self-supervised deep learning for inverse imaging problems**<br>
   H. Ji, T. Pang, and T. Zhang · *Machine Learning solutions for Inverse Problems, Part B*, Volume 27, Elsevier, October 2026 · [PDF](https://blog.nus.edu.sg/matjh/files/2026/05/handbook_2026.pdf)
 
